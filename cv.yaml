@@ -1,41 +1,42 @@
 name:
-  first: Brandon
-  last: Amos
-phone: ~(540)~947~1238
-email: bamos@cs.cmu.edu
+  first: Becker
+  last: Ilja
+phone: ~(+49)~160~1050905
+email: ilja.becker@b-tu.de
+email: mail@iljabecker.eu
 pdf: /data/cv.pdf
 src: https://github.com/bamos/cv
-url: "bamos.github.io"
+url: "chillja.github.io"
 social:
-  github: bamos
-  twitter: brandondamos
-  linkedin: bdamos
-  google_scholar: d8gdZR4AAAAJ
+  github: chillja
+# twitter: brandondamos
+  linkedin: ilja-becker
+# google_scholar: d8gdZR4AAAAJ
 # Erdős  number is at most 4.
 # (Brandon Amos -> Layne Watson -> Leroy Kelly -> Zoltán Füredi -> Paul Erdős )
 
 # LaTeX formatting.
 style: banking # casual, classic, oldstyle, or banking
-color: blue # blue, orange, green, red, purple, grey and black
+color: green # blue, orange, green, red, purple, grey and black
 color2: '0.25,0.25,0.25' # Make the font under the name a darker grey.
 
 # (tag, section type, title)
 order:
-  - [about, NONE]
-  - [news, News]
+  # - [about, NONE]
+  # - [news, News]
   - [education, Education]
-  - [research, Research Experience]
-  - [selected_publications, Selected Publications]
+  # - [research, Research Experience]
+  # - [selected_publications, Selected Publications]
   # - [NEWPAGE, NEWPAGE]
-  - [teaching, Teaching Experience]
+  # - [teaching, Teaching Experience]
   - [industry, Industry Experience]
   # - [projects, Projects]
-  - [coursework, CMU Graduate Coursework]
-  - [honors, Honors \& Awards]
+  # - [coursework, CMU Graduate Coursework]
+  # - [honors, Honors \& Awards]
   - [skills, Skills]
-  - [NEWPAGE, NEWPAGE]
-  - [all_publications, All Publications]
-#  - [activities, Activities]
+  # - [NEWPAGE, NEWPAGE]
+  # - [all_publications, All Publications]
+  # - [activities, Activities]
 
 about: '
   I am a researcher and broadly study foundational topics
