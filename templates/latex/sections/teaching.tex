@@ -3,8 +3,7 @@
 ~< block body >~
     ~< for item in items >~
         \cvlistitem{
-          << item.name >>
-          (<< item.short >>),
+          << item.name >>~< if item.short >~ (<< item.short >>) ~< endif >~,
           << item.position >>
           \hfill
           << item.semester>>
